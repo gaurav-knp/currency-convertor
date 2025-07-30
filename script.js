@@ -30,7 +30,8 @@ btn.addEventListener("click",(evt)=>{
        amount = 1;
        amount.value = 1;
     }
-    
+
 });
 
 
+    
